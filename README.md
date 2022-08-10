@@ -1,6 +1,6 @@
-# project of compiler Lab presented by Dr.Aezam Hokmi 
+# project of compiler Lab presented by Dr.Azam Hokmi 
 
-  This project is written by python language and the purpose of this project is to simulate a pat of compiler called Lexical analyzer 
+  This project is written by python language and the purpose of this project is to simulate a part of compiler called Lexical analyzer 
 
 
 #Terms of use 
